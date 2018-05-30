@@ -45,3 +45,4 @@ define([], function () {
     return productElement;
   }
 });
+//loaderio-41003a7982a09925505c4407f78059ef
